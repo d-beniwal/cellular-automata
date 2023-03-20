@@ -20,7 +20,7 @@
 
 
 ### Fixed parameters
-- ***c_map*** _(str)_: 'summer'; colormap used for plotting system state. Can be changed to any colormap recognized by matplotlib.
-- ***plot_type*** _(str)_: 'space-time'; type of plot to be mage. Only one option in current code.
-- ***nb_size*** _(int)_: 3; neighborhood size. Can be changed to any odd integer, but computation becomes too expensive for higher values.
-- ***n_states*** _(int)_: 2; no. of possible states of a cell. Can be increased, but computation becomes too expensive for higher values.
+- ***c_map*** _(str)_: ***'summer'***; colormap used for plotting system state. Can be changed to any colormap recognized by matplotlib.
+- ***plot_type*** _(str)_: ***'space-time'***; type of plot to be mage. Only one option in current code.
+- ***nb_size*** _(int)_: ***3***; neighborhood size. Can be changed to any odd integer, but computation becomes too expensive for higher values.
+- ***n_states*** _(int)_: ***2***; no. of possible states of a cell. Can be increased, but computation becomes too expensive for higher values.
