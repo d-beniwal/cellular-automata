@@ -1,9 +1,9 @@
-Code to implement wolfram cellular automata and generate time space plots corresponding to different rules.
+**Code to implement wolfram cellular automata and generate time space plots corresponding to different rules**.
+
 **Description of parameters**:
 
 **User inputs**:
 
-- sys_size (integer): size of the system
-- init_type (str): type of initialization. Two possible values:
--- 'r': random; system cells assigned 0 or 1 values randomly
--- 'c': centre; only centre cell assigned 1 while rest all zero
+- sys_size (int): size of the system
+- init_type (str): type of initialization. Two possible values: 'r'-random (system cells assigned 0 or 1 values randomly), 'c'-centre (only centre cell assigned 1 while rest all zero)
+- init_rand_state (int): [needed only if init_type is 'r']
