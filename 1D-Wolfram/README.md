@@ -1,4 +1,4 @@
-# Code to implement wolfram cellular automata and generate time space plots corresponding to different rules.
+# Code to implement wolfram cellular automata and generate 'space-time' plots corresponding to different rules.
 
 ![](ca-wolfram-image.png)
 
