@@ -1,7 +1,7 @@
 Code to implement wolfram cellular automata and generate time space plots corresponding to different rules.
-- **Description of parameters:
+- **Description of parameters**:
 
-- **User inputs:
+- **User inputs**:
 
 \tsys_size (integer): size of the system
 \tinit_type (str): type of initialization. Two possible values:
