@@ -13,7 +13,7 @@ def f_sys_initialize(sys_size, pos, n_seed, shape, size, min_spacing=1.5):
             - 'c'-circular
             - 's'-square
         size (int): size (radius/side length) of nuclei in pixel
-        min_spacing (float, optional): minimum spacing between nuclei.
+        min_spacing (float, optional): minimum spacing between centres of nuclei.
             It represents multiple of size i.e. '1' means nuclei can just touch. Defaults to 1.5.
 
     Returns:
