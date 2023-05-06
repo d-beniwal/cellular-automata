@@ -1,4 +1,4 @@
-from core_functions import f_evolve_WolframCA, f_space_time_plot
+from wolframCA_functions import f_evolve_WolframCA, f_space_time_plot
 
 # -----------------------------
 # Take inputs
