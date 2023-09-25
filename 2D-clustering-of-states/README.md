@@ -1,6 +1,6 @@
 # Clustering of states present in a system
 ## Rule Used: New state of a cell is equal to the state most abundant in neighborhood
-
+![](image-clustering-of-states.png)
 
 ## Description of parameters
 
