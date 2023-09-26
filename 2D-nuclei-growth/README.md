@@ -16,6 +16,8 @@
   - 's'-square
 - ***nuclei_size*** _(int)_: size of nuclei (radius/side length in pixels)
 - ***min_nuclei_spacing*** _(float)_: minimum possible spacing between centres of nuclei. It represents multiple of size i.e. '1' means nuclei can just touch. Defaults to 1.5
+
+#### Parameters to evolve the system over time
 - ***nb_size*** _(int)_: size of local neighborhood to use. 3-(3x3), 5-(5x5)
 - ***nb_type*** _(str)_: type of neighborhood to use. Possible values:
   - 'm'-Moore
